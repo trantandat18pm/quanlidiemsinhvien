@@ -1,0 +1,2 @@
+16/10/2020 -> Import sinh viên và import tài khoản người dùng, phân quyền thông qua Gate
+//Lưu biến đăng nhập  {{ Auth::user()->name }} view/layouts/app
